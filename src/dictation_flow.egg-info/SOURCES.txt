@@ -1,0 +1,8 @@
+pyproject.toml
+src/__init__.py
+src/dictation_flow.egg-info/PKG-INFO
+src/dictation_flow.egg-info/SOURCES.txt
+src/dictation_flow.egg-info/dependency_links.txt
+src/dictation_flow.egg-info/entry_points.txt
+src/dictation_flow.egg-info/requires.txt
+src/dictation_flow.egg-info/top_level.txt
